@@ -136,8 +136,6 @@ ________________________________________
 
 <img width="1600" height="846" alt="WhatsApp Image 2026-05-09 at 2 10 40 PM" src="https://github.com/user-attachments/assets/61d1f46c-acaa-4276-a026-0856adf4dcdf" />
 
-# 📽️ Demo Video
-
 
 ________________________________________
 #Backend Setup
