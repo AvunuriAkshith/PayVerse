@@ -141,7 +141,7 @@ ________________________________________
 #Backend Setup
 Clone Repository
 ```text
-git clone https://github.com/your-username/payVerse.git
+git clone https://github.com/AvunuriAkshith/payVerse.git
 ```
 ________________________________________
 #Navigate to Backend
